@@ -1,6 +1,9 @@
 const { getRandom } = require("../../lib/Function")
 const fs = require('fs')
 const ffmpeg = require('fluent-ffmpeg')
+const ffmpegPath = require('@ffmpeg-installer/ffmpeg').path;
+const path = require("path")
+ffmpeg.setFfmpegPath(ffmpegPath);
 
 module.exports = {
     name: "stickerp",

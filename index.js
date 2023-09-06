@@ -128,6 +128,8 @@ const connect = async () => {
         if (m.key.id.startsWith("BAE5") && m.key.id.length == 16) return
         
         if (config.options.autoRead) await killua.readMessages([m.key])
+
+        //use killua.js
         require("./killua")(killua, m, Commands, chatUpdate)
     })
 

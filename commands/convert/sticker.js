@@ -9,6 +9,7 @@ module.exports = {
     type: "convert",
     example: "\nsticker : %prefix%command --media reply\nPP sticker : %prefix%command @tag\nurl sticker : %prefix%command <url>",
     start: async(killua, m, { command, prefix, text, quoted, mime }) => {
+        console.log("RUNN2")
         if (!quoted) return  m.reply(`Reply to Supported media With Caption ${prefix + command}`)
         if (/image|video|sticker/.test(mime)) {
             let download = await killua.downloadMediaMessage(quoted)

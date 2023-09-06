@@ -1,1 +1,82 @@
-[]
+[
+    {
+        "from": "120363024797995530@g.us",
+        "offline": false,
+        "antilink": false,
+        "badword": false,
+        "antidelete": false,
+        "detect": false,
+        "viewOnce": false,
+        "nsfw": false,
+        "leveling": false,
+        "welcome": {
+            "status": false,
+            "add": "Welcome To My Group",
+            "remove": "Leave From My Group"
+        }
+    },
+    {
+        "from": "6289677271544-1586429756@g.us",
+        "offline": false,
+        "antilink": false,
+        "badword": false,
+        "antidelete": false,
+        "detect": false,
+        "viewOnce": false,
+        "nsfw": false,
+        "leveling": false,
+        "welcome": {
+            "status": false,
+            "add": "Welcome To My Group",
+            "remove": "Leave From My Group"
+        }
+    },
+    {
+        "from": "120363043816129727@g.us",
+        "offline": false,
+        "antilink": false,
+        "badword": false,
+        "antidelete": false,
+        "detect": false,
+        "viewOnce": false,
+        "nsfw": false,
+        "leveling": false,
+        "welcome": {
+            "status": false,
+            "add": "Welcome To My Group",
+            "remove": "Leave From My Group"
+        }
+    },
+    {
+        "from": "120363046050112505@g.us",
+        "offline": false,
+        "antilink": false,
+        "badword": false,
+        "antidelete": false,
+        "detect": false,
+        "viewOnce": false,
+        "nsfw": false,
+        "leveling": false,
+        "welcome": {
+            "status": false,
+            "add": "Welcome To My Group",
+            "remove": "Leave From My Group"
+        }
+    },
+    {
+        "from": "6285156301103-1597505085@g.us",
+        "offline": false,
+        "antilink": false,
+        "badword": false,
+        "antidelete": false,
+        "detect": false,
+        "viewOnce": false,
+        "nsfw": false,
+        "leveling": false,
+        "welcome": {
+            "status": false,
+            "add": "Welcome To My Group",
+            "remove": "Leave From My Group"
+        }
+    }
+]
